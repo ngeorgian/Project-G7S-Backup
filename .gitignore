@@ -63,7 +63,7 @@ sysinfo.txt
 
 # Lighting
 [Aa]ssets/[Ss]cenes/[Ss]ampleScene/LightingData.asset
-/[Aa]ssets/[Ss]cenes/[Ss]ampleScene/LightingData.asset.meta
+[Aa]ssets/[Ss]cenes/[Ss]ampleScene/LightingData.asset.meta
 
 # Crashlytics generated file
 crashlytics-build.properties
